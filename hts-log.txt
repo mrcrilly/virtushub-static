@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Sat, 15 Jun 2019 08:25:42 at https://www.virtushub.com/
+(httrack -N100 https://www.virtushub.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:25:44	Warning: 	Note: due to https://www.virtushub.com remote robots.txt rules, links beginning with these path will be forbidden: /api/, /bo/, /editor.jsp, /noflashhtml, /siteBackHtml, /wix/, /wixpress/, /wixdemo/, /wix-editor/, /editor2.jsp, /flash/, /flash-templates/, /jobs/seo/, /website-template/view/flash/, /facebook-template/, /facebook/templates/, /website/templates/flash/, /favicon.ico (see in the options to disable this)
+08:26:05	Error: 	"Not Found" (404) at link https://www.virtushub.com/feed.xml (from https://www.virtushub.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 seconds : 28 links scanned, 26 files written (7266752 bytes overall) [1413851 bytes received at 45608 bytes/sec], 7269615 bytes transferred using HTTP compression in 27 files, ratio 18%, 9.3 requests per connection
+(1 errors, 1 warnings, 0 messages)
